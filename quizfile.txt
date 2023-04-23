@@ -1,0 +1,5 @@
+A Pico has 40; pins T/F;T
+A Pico has 4;analog GPIO pins T/F;F
+A Pico uses a;RP2040 T/F;T
+A PicoW includes;WiFi T/F;T
+A Pico has 2GB;onboard Flash;F
